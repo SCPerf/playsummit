@@ -43,51 +43,6 @@
                 "name": "ps1",
                 "path": "/sitecore/content/PLAY/playwebsite/home/ps1",
                 "scope": "ItemAndDescendants"
-            },
-            {
-                "name": "ps2",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps2",
-                "scope": "ItemAndDescendants"
-            },
-            {
-                "name": "ps3",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps3",
-                "scope": "ItemAndDescendants"
-            },
-            {
-                "name": "ps4",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps4",
-                "scope": "ItemAndDescendants"
-            },
-            {
-                "name": "ps5",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps5",
-                "scope": "ItemAndDescendants"
-            },
-            {
-                "name": "ps6",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps6",
-                "scope": "ItemAndDescendants"
-            },
-            {
-                "name": "ps7",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps7",
-                "scope": "ItemAndDescendants"
-            },
-            {
-                "name": "ps8",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps8",
-                "scope": "ItemAndDescendants"
-            },
-            {
-                "name": "ps9",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps9",
-                "scope": "ItemAndDescendants"
-            },
-            {
-                "name": "ps10",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps10",
-                "scope": "ItemAndDescendants"
             }
         ]
     }
