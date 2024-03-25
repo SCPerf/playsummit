@@ -38,11 +38,6 @@
                         "scope": "ignored"
                     }
                 ]
-            },
-            {
-                "name": "ps1",
-                "path": "/sitecore/content/PLAY/playwebsite/home/ps1",
-                "scope": "ItemAndDescendants"
             }
         ]
     }
